@@ -1,0 +1,15 @@
+#slideshow-nav {
+	display: none;
+}
+.sponsors-section,
+footer #footer-content {
+	display: table-cell;
+}
+nav a {
+	width: 12%;
+	float: left;
+}
+.sponsors-section a {
+	width: 25%;
+	float: left;
+}

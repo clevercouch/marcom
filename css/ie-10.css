@@ -1,0 +1,16 @@
+
+html[data-useragent*='MSIE 10.0'] #slideshow-nav {
+	display: none;
+}
+html[data-useragent*='MSIE 10.0'] .sponsors-section,
+html[data-useragent*='MSIE 10.0'] footer #footer-content {
+	display: table-cell;
+}
+html[data-useragent*='MSIE 10.0'] nav a {
+	width: 12%;
+	float: left;
+}
+html[data-useragent*='MSIE 10.0'] .sponsors-section a {
+	width: 25%;
+	float: left;
+}
